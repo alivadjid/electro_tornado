@@ -1,2 +1,5 @@
-# eletro_tornado
-electron.js - fron tornado - back
+application use electron.js and tornado web-server
+
+tested in Ubuntu 20.04 LTS
+to start run in linux
+sh install.sh
